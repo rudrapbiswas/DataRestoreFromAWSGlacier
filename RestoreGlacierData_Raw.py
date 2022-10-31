@@ -4,8 +4,8 @@ import os
 import boto3
 
 # DEFINE CONSTANTS
-AWS_Access_Key = "AKIA3HIID3X5PCO5UP5S"
-AWS_Secret_Key = "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"
+AWS_Access_Key = "XXXXXXXXXX"
+AWS_Secret_Key = "XXXXXXXXX"
 REGION  = "us-east-1"
 S3_BUCKET  = "benbkt"
 FOLDER_PREFIX  = "be123/demo/2022-10-11T00-00Z"
